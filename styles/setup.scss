@@ -1,0 +1,60 @@
+@import url('https://fonts.googleapis.com/css2?family=Lexend:wght@100;200;300;400;500;600;700;800;900&display=swap');
+
+* {
+  margin: 0;
+  font-family: 'Lexend', sans-serif;
+  color: var(--onyxColor);
+}
+
+:root {
+  --culturedColor : #EEEEEE;
+  --crayolaColor : #E8C592;
+  --sunrayColor : #E9B05A;
+  --onyxColor : #3E3E3E;
+  --margin : 160px
+}
+
+.sunrayColor {
+  color: var(--sunrayColor);
+}
+
+.culturedColor {
+  color: var(--culturedColor);
+}
+
+.crayolaBg {
+  background-color: var(--crayolaColor);
+}
+
+body {
+  background-color: var(--culturedColor);
+}
+
+h1 {
+  font-family: 'Lexend', sans-serif;
+  font-weight: 700;
+  font-size: 65px;
+}
+
+h2 {
+  font-family: 'Lexend', sans-serif;
+  font-weight: 700;
+  font-size: 65px;
+  color: var(--sunrayColor);
+}
+
+h3 {
+  font-family: 'Lexend', sans-serif;
+  font-weight: 400;
+  font-size: 18px;
+  letter-spacing: 2px;
+  padding: 8px 0;
+}
+
+
+p {
+  font-family: 'Lexend', sans-serif;
+  font-weight: 300;
+  font-size: 18px;
+}
+

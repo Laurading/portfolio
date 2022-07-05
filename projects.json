@@ -1,0 +1,40 @@
+{
+  "projetcs":[
+    {
+      "id":"1",
+      "name":"GNR",
+      "img":"parking",
+      "text":"Des solutions connectées pour la gestion de vos places de parking"
+    },
+    {
+      "id":"2",
+      "name":"Industrie",
+      "img":"industrie",
+      "text":"La localisation Indoor au service de l’amélioration de la performance industrielle"
+    },
+    {
+      "id":"3",
+      "name":"Santé",
+      "img":"sante",
+      "text":"Localiser votre matériel pour une meilleure utilisation et efficience du parcours patient"
+    },
+    {
+      "id":"4",
+      "name":"Flex office",
+      "img":"flexoffice",
+      "text":"Organiser et optimiser la gestion de vos locaux"
+    },
+    {
+      "id":"5",
+      "name":"Building",
+      "img":"building",
+      "text":"Le tracage indoor de votre outillage sur site pour une meilleure gestion de vos budgets"
+    },
+    {
+      "id":"6",
+      "name":"Agriculture",
+      "img":"agriculture",
+      "text":"Connecter votre environnement pour mieux l’analyser par nos actionneurs"
+    }
+  ]
+}
