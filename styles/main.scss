@@ -1,12 +1,13 @@
 .project-section {
   display: flex;
   flex-wrap: wrap;
- 
+  width: 100vw;
 }
 
 .project-card {
-  width: calc(100vw / 4 - 2px);
-  height: calc(100vh / 3 - 1px);
+  width: 25vw;
+  height: calc(100vh / 3);
+  box-sizing: border-box;
   border: var(--crayolaColor) 1px solid;
   img {
     width: 100%;
