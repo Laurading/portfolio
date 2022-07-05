@@ -18,8 +18,12 @@ export default function HomePage() {
         </div>
       </div>
       <div className="project-section">
-        <div className="project-card"><img src="/img/GNR.png" /></div>
-        <div className="project-card"><img src="/img/GNR.png" /></div>
+        <div className="project-card">
+          <Link href='/gouzou'>
+            <img src="/img/homepage/gouzou.png"/>
+          </Link>
+        </div>
+        <div className="project-card"><img src="/img/homepage/bat.png" /></div>
         <div className="project-card"><img src="/img/GNR.png" /></div>
         <div className="project-card"><img src="/img/GNR.png" /></div>
         <div className="project-card"><img src="/img/GNR.png" /></div>
