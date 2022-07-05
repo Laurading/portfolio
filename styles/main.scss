@@ -54,6 +54,7 @@
   h3 {
     &:hover {
       text-decoration: underline;
+      text-underline-offset: 3px;
     }
   }
 }
@@ -80,6 +81,13 @@
 
 .column-4 {
   width: 25%;
+  text-align: center;
+  img {
+    width: 100%;
+  }
+  .assets {
+    width: 40%;
+  }
 }
 
 .column-3 {

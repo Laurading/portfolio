@@ -15,6 +15,7 @@ export default function Gouzou() {
         <h1 className="culturedColor center">Gouzou</h1>
       </section>
       <section className='margin-lr padding-tb'>
+      <h2 className='center'>CONTEXT</h2>
       <div className='content-col center'>
         <div className="column-3">
           <h3 className="sunrayColor">YEAR</h3>
@@ -31,6 +32,7 @@ export default function Gouzou() {
         </div>
       </section>
       <section className="margin-lr padding-tb">
+      <h2 className='center'>RESULTS</h2>
         <h3 className="sunrayColor br">ORIGINAL IMAGE</h3>
 
 

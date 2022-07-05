@@ -4,9 +4,9 @@ export default function HomePage() {
   return (
     <div>
       <div className="logo">
-      <Link href='/'>
-        <img  src="/img/logo.svg" />
-      </Link>  
+        <Link href='/'>
+          <img src="/img/logo.svg" />
+        </Link>
       </div>
       <div className="about">
         <h3 className="sunrayColor">ABOUT ME</h3>
@@ -20,10 +20,14 @@ export default function HomePage() {
       <div className="project-section">
         <div className="project-card">
           <Link href='/gouzou'>
-            <img src="/img/homepage/gouzou.png"/>
+            <img src="/img/homepage/gouzou.png" />
           </Link>
         </div>
-        <div className="project-card"><img src="/img/homepage/bat.png" /></div>
+        <div className="project-card">
+          <Link href='/gnr'>
+            <img src="/img/homepage/bat.png" />
+          </Link>
+        </div>
         <div className="project-card"><img src="/img/GNR.png" /></div>
         <div className="project-card"><img src="/img/GNR.png" /></div>
         <div className="project-card"><img src="/img/GNR.png" /></div>
