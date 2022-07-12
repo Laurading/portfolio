@@ -39,10 +39,10 @@ export default function Gouzou() {
         <div className="content-col br">
 
           <div className="column-3">
-            <img src="img/gouzou/robot.jpg" />
+            <img src="img/gouzou/robot.png" />
           </div>
           <div className="column-3">
-            <img src="img/gouzou/bricoleur.jpg" />
+            <img src="img/gouzou/bricoleur.png" />
           </div>
           <div className="column-3">
             <img src="img/gouzou/poupeeRusse.png" />
