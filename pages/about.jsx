@@ -8,7 +8,8 @@ export default function About() {
           <img src="/img/logo.svg" />
         </Link>
       </div>
-      <section className='padding-tb margin-lr'>
+      <section className='margin-lr'>
+        <div className='padding-tb'>
         <h2 className='padding-tb'>2022 WORK-STUDY</h2>
         <div className='content-col center'>
           <div className="column-4">
@@ -28,12 +29,10 @@ export default function About() {
             <p>Redesign</p>
           </div>
         </div>
-        <div className='padding-tb'>
-          <p>Wizzilab is a company specialized in the field of IoT. Created in 2011, the team evolves as a design office and is now transformed into a sales office. Arriving in the company in February 2022, I was recruited with a view to helping them to communicate their new positioning.</p>
         </div>
-
         <div className='br'>
           <h3>1. DISCOVERY</h3>
+          <p>Wizzilab is a company specialized in the field of IoT. Created in 2011, the team evolves as a design office and is now transformed into a sales office. Arriving in the company in February 2022, I was recruited with a view to helping them to communicate their new positioning.</p>
           <p>First of all, my job was to understand the universe of the company and what we did there.</p>
           <p>I had explanations on the different systems and solutions on which the team was working then I did research by myself to deepen the subject.</p>
         </div>
@@ -55,7 +54,7 @@ export default function About() {
             <h3>3. CREATION</h3>
             <p>The brochures were the basis of the redesign because the understanding allowed me to subsequently create the universe of the future website.</p>
           </div>
-          <div className='content-col'>
+          <div className='content-col br'>
             <div className='column-2'>
               <img src='/img/wizzilab/solutionbubble/tl.png' />
               <img src='/img/wizzilab/solutionbubble/bl.png' />
@@ -65,12 +64,15 @@ export default function About() {
               <img src='/img/wizzilab/solutionbubble/br.png' />
             </div>
           </div>
+          <div className='content-col br'>
+          <div className='column-2 br'>
+            <img src='/img/wizzilab/secteurs.png'/>
+          </div>
+          <div className='column-2 br'>
+            <img src='/img/wizzilab/secteursselected.png'/>
+          </div>
+          </div>
         </div>
-        <div>
-            <img className='/img/wizzilab/solutionbubble/br.png' />
-        </div>
-
-
       </section>
 
     </div>
