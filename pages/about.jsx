@@ -55,6 +55,19 @@ export default function About() {
             <h3>3. CREATION</h3>
             <p>The brochures were the basis of the redesign because the understanding allowed me to subsequently create the universe of the future website.</p>
           </div>
+          <div className='content-col'>
+            <div className='column-2'>
+              <img src='/img/wizzilab/solutionbubble/tl.png' />
+              <img src='/img/wizzilab/solutionbubble/bl.png' />
+            </div>
+            <div className='column-2'>
+              <img src='/img/wizzilab/solutionbubble/tr.png' />
+              <img src='/img/wizzilab/solutionbubble/br.png' />
+            </div>
+          </div>
+        </div>
+        <div>
+            <img className='/img/wizzilab/solutionbubble/br.png' />
         </div>
 
 
