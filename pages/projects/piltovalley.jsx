@@ -9,7 +9,11 @@ export default function Piltovalley() {
         </Link>
       </div>
       <div className="about">
-        <h3 className="culturedColor">ABOUT ME</h3>
+      <div className="about">
+      <Link href='/about'>
+      <h3 className="culturedColor">ABOUT ME</h3>
+        </Link>
+      </div>
       </div>
       <section className="crayolaBg padding-tb">
         <h1 className="culturedColor center">Gouzou</h1>

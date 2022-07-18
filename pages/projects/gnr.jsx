@@ -9,7 +9,9 @@ export default function GNR() {
         </Link>
       </div>
       <div className="about">
-        <h3 className="culturedColor">ABOUT ME</h3>
+        <Link href='/about'>
+          <h3 className="culturedColor">ABOUT ME</h3>
+        </Link>
       </div>
       <section className="crayolaBg padding-tb">
         <h1 className="culturedColor center">GNR</h1>

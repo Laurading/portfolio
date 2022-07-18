@@ -9,7 +9,9 @@ export default function HomePage() {
         </Link>
       </div>
       <div className="about">
-        <h3 className="sunrayColor">ABOUT ME</h3>
+        <Link href='/about'>
+          <h3 className="sunrayColor">ABOUT ME</h3>
+        </Link>
       </div>
       <div className="landing-text">
         <div>

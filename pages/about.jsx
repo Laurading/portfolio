@@ -8,9 +8,6 @@ export default function About() {
           <img src="/img/logo.svg" />
         </Link>
       </div>
-      <div className="about">
-        <h3 className="sunrayColor">ABOUT ME</h3>
-      </div>
       <section className='padding-tb margin-lr'>
         <h2 className='padding-tb'>2022 WORK-STUDY</h2>
         <div className='content-col center'>
