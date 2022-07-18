@@ -19,16 +19,20 @@ export default function HomePage() {
       </div>
       <div className="project-section">
         <div className="project-card">
-          <Link href='/gouzou'>
+          <Link href='/projects/gouzou'>
             <img src="/img/homepage/gouzou.png" />
           </Link>
         </div>
         <div className="project-card">
-          <Link href='/gnr'>
+          <Link href='/projects/gnr'>
             <img src="/img/homepage/bat.png" />
           </Link>
         </div>
-        <div className="project-card"><img src="/img/GNR.png" /></div>
+        <div className="project-card">
+          <Link href='/projects/piltovalley'>
+            <img src="/img/homepage/piltovalley.png" />
+          </Link>
+        </div>
         <div className="project-card"><img src="/img/GNR.png" /></div>
         <div className="project-card"><img src="/img/GNR.png" /></div>
         <div className="project-card"><img src="/img/GNR.png" /></div>

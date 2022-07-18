@@ -39,13 +39,13 @@ export default function Gouzou() {
         <div className="content-col br">
 
           <div className="column-3">
-            <img src="img/gouzou/robot.png" />
+            <img src="../img/gouzou/robot.png" />
           </div>
           <div className="column-3">
-            <img src="img/gouzou/bricoleur.png" />
+            <img src="../img/gouzou/bricoleur.png" />
           </div>
           <div className="column-3">
-            <img src="img/gouzou/poupeeRusse.png" />
+            <img src="../img/gouzou/poupeeRusse.png" />
           </div>
 
 
@@ -55,14 +55,14 @@ export default function Gouzou() {
         <div className='content-col'>
 
           <div className="column-3">
-            <video loop autoPlay src="img/gouzou/robot.mp4" />
+            <video loop autoPlay src="../img/gouzou/robot.mp4" />
           </div>
 
           <div className="column-3">
-            <video loop autoPlay src="img/gouzou/bricoleur.mp4" />
+            <video loop autoPlay src="../img/gouzou/bricoleur.mp4" />
           </div>
           <div className="column-3">
-            <video loop autoPlay src="img/gouzou/poupeeRusse.mp4" />
+            <video loop autoPlay src="../img/gouzou/poupeeRusse.mp4" />
           </div>
         </div>
       </section>
